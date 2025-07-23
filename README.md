@@ -20,3 +20,9 @@ Used [JSONPlaceholder](https://jsonplaceholder.typicode.com/) as the sample API.
 ## Notes
 - This project is for training purposes only.
 - The API used is free and available for testing.
+
+## Screenshot
+
+![Postman Runner](runner-screenshot.png)
+
+<img width="666" height="450" alt="runner-screenshot" src="https://github.com/user-attachments/assets/4810ede1-f71c-48e3-81f1-5091b556267b" />
